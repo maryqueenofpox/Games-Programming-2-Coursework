@@ -1,3 +1,0 @@
-﻿  Mesh.cpp
-F:\Uni Year 3\Games Programming 2\Coursework\Lab4\Lab4\Lab4\Lab1\Mesh.cpp(71,9): warning C4930: 'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
-  Lab1.vcxproj -> F:\Uni Year 3\Games Programming 2\Coursework\Lab4\Lab4\Lab4\Debug\Lab1.exe

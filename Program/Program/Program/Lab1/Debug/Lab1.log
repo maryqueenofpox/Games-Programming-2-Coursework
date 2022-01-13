@@ -1,0 +1,14 @@
+﻿  audio.cpp
+  Display.cpp
+  main.cpp
+  MainGame.cpp
+  Mesh.cpp
+F:\Uni Year 3\Games Programming 2\Coursework\Program\Program\Program\Lab1\Mesh.cpp(71,9): warning C4930: 'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  obj_loader.cpp
+F:\Uni Year 3\Games Programming 2\Coursework\Program\Program\Program\Lab1\obj_loader.cpp(400,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+  Texture.cpp
+  SDL_mixer.h
+  Generating Code...
+  stb_image.c
+  Lab1.vcxproj -> F:\Uni Year 3\Games Programming 2\Coursework\Program\Program\Program\Debug\Lab1.exe
