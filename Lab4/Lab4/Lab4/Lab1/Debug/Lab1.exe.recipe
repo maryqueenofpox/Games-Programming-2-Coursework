@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>F:\Uni Year 3\Games Programming 2\Coursework\Lab4\Lab4\Lab4\Debug\Lab1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>F:\Uni Year 3\Games Programming 2\Coursework\Lab4\Lab4\Lab4\deps\include\SDL\SDL_mixer.h</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
